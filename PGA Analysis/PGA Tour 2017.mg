@@ -1,0 +1,3 @@
+- This folder contains an analysis that attempts to answer the question on what three factors influences a golfer's drive distance. 
+- The data for the analysis is the 2017 PGA Tour. 
+- This analysis focused on using R to answer the research question. 
