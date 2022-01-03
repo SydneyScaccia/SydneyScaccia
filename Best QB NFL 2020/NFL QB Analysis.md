@@ -1,1 +1,3 @@
-
+- This folder contains an analysis that attempts to answer the question on who was the best quarterback from the 2020 NFL season. 
+- The data for the analysis is the 2020 NFL football season.
+- This analysis focused on using Excel to answer the research question.
