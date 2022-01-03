@@ -1,0 +1,3 @@
+- This folder contains an updated analysis ran in R that attempts to answer the question on whether or not defense has an impact on team winning percentages. 
+- The data for the analysis is the 2019 NCAA College football season. 
+- This analysis is closely related to the one ran in Alteryx, however it is updated and improved upon. 
