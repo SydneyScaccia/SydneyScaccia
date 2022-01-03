@@ -1,0 +1,3 @@
+- This folder contains an analysis that attempts to answer the question on whether or not the NFL combine can accurately predict potential professional athlete’s positions correctly. 
+- The data for the analysis is all data collected from the NFL combine beginning in the year 2000 and ending in 2019. 
+- This analysis focused on using R to answer the research question. 
