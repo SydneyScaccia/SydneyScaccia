@@ -1,0 +1,2 @@
+- Access the creation of small-firm development networks and the potential connection to the investment communities in New York State, specifically focusing on healthcare in Upstate New York.
+- Utilize skills such as data scraping, data wrangling, and creating visualizations, along with preliminary research to uncover these connections for investment and innovation opportunities. 
